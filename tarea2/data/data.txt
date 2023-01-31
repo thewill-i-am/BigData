@@ -1,0 +1,65 @@
+segundo.orrillo	activity_report_collected	Segundo Orrillo, Peru, javier.orrillo@outlook.com, segundo.orrillo@thebearsoft.com
+rafael.oliveira	activity_report_collected	Rafael Oliveira, Colombia, rafael.leite.oliveira@gmail.com, rafael.oliveira@thebearsoft.com
+ricardo.delcastanher	activity_report_collected	Ricardo Delcastanher, Brazil, delcastanher@gmail.com, ricardo.delcastanher@thebearsoft.com
+stenio.joseph	activity_report_collected	Stenio Joseph; Republica Dominicana, steniojosephs@gmail.com, stenio.joseph@thebearsoft.com
+mariella.castellanos	deduct	PTO; 8, 9 calendar days off september; indicated by engineer
+julian.parra	deduct	PTO; 8, 9, 12 calendar days off september; indicated by engineer
+filiberto.valetk	activity_report_collected	Filiberto Valetk, Colombia, fili.valetk@gmail.com, filiberto.valetk@thebearsoft.com
+matias.zalynas	activity_report_collected	Matias Zalynas, Uruguay, m.zalynas@gmail.com, matias.zalynas@thebearsoft.com
+daniel.bossi	banking_data_collected	
+jimmy@thebearsoft.com
+enrique.sime	activity_report_collected	Enrique Sime, Republica Dominicana, esimejava@gmail.com, enrique.sime@thebearsoft.com
+juan.garcia	request_resolved	Juan Manuel Garcia, Ecuador, Encora; proof of professional services sent
+juan.montealegre	request_resolved	Juan Sebstian Montealegre Calle; Colombia; proof of professional services sent
+johan.calderon	cvs_collected	intercom1; slack0; whatsapp17; total18; latam
+johan.calderon	campaign_touches	Intercom5; Slack1; Whatsapp20; Total26; Latam
+altieres.schincariol	activity_report_collected	Altieres Schincariol, Brazil, altnetto@gmail.com, altieres.schincariol@thebearsoft.com
+jhonatan.pulgarin	activity_report_collected	Jhonatan Pulgarin, Colombia, jhonatan.pulgarin@encora.com, jhonatan.pulgarin@thebearsoft.com
+manuel.herrera	activity_report_collected	Manuel Herrera, Costa Rica, manu.herrera.mesen@gmail.com, manuel.herrera@thebearsoft.com
+humberto.arana	activity_report_collected	Humberto Arana, Peru, humaranah@outlook.com, humberto.arana@thebearsoft.com
+abel.martell	activity_report_collected	Abel Martell, Peru, amartellram@gmail.com , abel.martell@thebearsoft.com
+freddy.feria	activity_report_collected	Freddy Feria, Colombia, Prometeo_006@yahoo.com, freddy.feria@thebearsoft.com
+alberto.munoz	request_resolved	Alberto Marino Muñoz Batista; Encora; performance viewing meeting
+daniel.cleto	activity_report_collected	Daniel Cleto, Republica Dominicana, danielcleto0440@gmail.com, daniel.cleto@thebearsoft.com
+maximiliano.delgado	activity_report_collected	Maximiliano Delgado, Argentina, daniel.cleto@thebearsoft.com, maximiliano.delgado@thebearsoft.com
+johan.quintana	activity_report_collected	Johan Quintana, Colombia, johangon4@gmail.com, johan.quintana@thebearsoft.com
+andres.castillo	activity_report_collected	Andres Mauricio Castillo Robles; Colombia; Bearsoft; andcastillo@gmail.com; andres.castillo@thebearsoft.com
+edgar.ysabel	activity_report_collected	Edgar Josué Ysabel Ramírez; Rep. Daominicana; avantica; edgarysqbel@gmail.com; edgar.ysabel@thebearsoft.com
+gerson.aguirre	activity_report_collected	Gerson Ezequiel Aguirre Benitez; El salvador; Bearsoft; hola@gersonaguirre.me; gerson.aguirre@thebearsoft.com
+jose.mori	activity_report_collected	Jose Mori; Peru; avantica; joosem@gmail.com; jose.mori@thebearsoft.com
+kevin.barahona	activity_report_collected	Kevin Barahona; Honduras; Avantica; kevin.barahona@avantica.net; kevin.barahona@thebearsoft.com
+manuel.guilamo	activity_report_collected	Manuel Guilamo, Republica Dominicana, maguilamo.c@gmail.com, manuel.guilamo@thebearsoft.com
+victor.brizzi	activity_report_collected	Victor Emmanuel Brizzi; Argentina; avantica; victore.brizzi@gmail.com; victor.brizzi@thebearsoft.com
+washington.quillupangui	activity_report_collected	washington.quillupangui; Edcuador; avantica; wquillupangui@gmail.com; washington.quillupangui@thebearsoft.com
+brayan.bustillos	activity_report_collected	Brayan Rafael Hans Bustillos Valenzuela, Bolivia; avantica; bustillosbrayan@gmail.com; brayan.bustillos@thebearsoft.com
+dariel.cruz	activity_report_collected	Dariel Cruz Hernández; Rep. Dominicana; avantica; cruzdariel22@gmail.com; dariel.cruz@thebearsoft.com
+emiliano.kohmann	activity_report_collected	Emiliano Kohmann; Argentina; emikohmann@live.com; emiliano.kohmann@thebearsoft.com
+ernesto.santos	activity_report_collected	Ernesto De los Santos Cordero; Rep. Dominicana; avantica; ernesto.delossantos@encora.com; ernesto.cordero@thebearsoft.com
+federico.balbuena	activity_report_collected	federico balbuena; Argentina; fsbalbuena@gmail.com ; federico.balbuena@thebearsoft.com
+felipe.rojas	activity_report_collected	Felipe Rojas; Costa Rica; felipe.rojasg@gmail.com;felipe.rojas@thebearsoft.com
+horacio.galdamez	activity_report_collected	Horacio Galdamez; Honduras; horacio.galdamez21@gmaim.com; horacio.galdamez@thebearsoft.com
+ivan.alburquerque	activity_report_collected	Iván Alberto Alburquerque Mejía; rep. Dominicana; avantica; Ivan.alburquerque@encora.com; ivan.alburquerque@thebearsoft.com
+john.pacco	activity_report_collected	John Pacco; Peru; Avantica; bryam.pacco@gmail.com; john.pacco@thebearsoft.com
+lucas.dossantos	activity_report_collected	Lucas Shen dos Santos; Brazil; avantica; lshens@hotmail.com; lucas.dossantos@thebearsoft.com
+lucas.mari	activity_report_collected	Lucas Mario Mari; Argentina; avantica; lucasmari@gmail.com; lucas.mari@thebearsoft.com
+mariel.sack	activity_report_collected	Mariel Rocío Sack Ceppi; Argentina; avantica; marielsack@gmail.com; mariel.sack@thebearsoft.com
+max.macalupo	activity_report_collected	Max Leo Junior Macalupu Masías; Peru; Encora; maxleoj@gmail.com; max.macalupu@thebearsoft.com
+miguel.calderon	activity_report_collected	Miguel Angel Calderon Estrada; Colombia; avantica; miguelangelcalderon93@gmail.com; miguel.calderon@thebearsoft.com
+rhonny.gonzalez	activity_report_collected	Rhonny Roldan González Pérez; Encora; Venezuela; rhonny.g@live.com; rhonny.gonzalez@thebearsoft.com
+roger.mejia	activity_report_collected	Roger Mejia; Honduras; Avantica; rogermejia1@live.com; roger.mejia@thebearsoft.com
+santiago.dalmas	activity_report_collected	Santiago Dalmas Grela; Uruguay; avantica; santiagodalmas@gmail.com; santiago.dalmas@thebearsoft.com
+santiago.pitluk	activity_report_collected	Santiago Emilio Pitluk Marrón; Argentina; avantica; santiagoepitluk@gmail.com; santiago.pitluk@thebearsoft.com
+salvador.gonzales	activity_report_collected	Salvador Gonzales; Venezuela; direnzosalvatore@gmail.com; salvador.gonzalez@thebearsoft.com
+sebastian.salvo	activity_report_collected	Sebastian Salvo; Argentina; Encora; sebastian.salvo@gmail.com; sebastian.salvo@thebearsoft.com
+victor.pena	activity_report_collected	Victor Peña; Republica Dominicana; Encora; victor_13_@msn.com; victor.pena@thebearsoft.com
+walter.rezende	activity_report_collected	Walter Jose De Rezende; Brazil; avantica; walter-zero@hotmail.com; walter.derezende@thebearsoft.com
+carlos.huerta	activity_report_collected	Carlos Antonio Huerta; Argentina; avantica; carlos.huerta@gmail.com; carlos.huerta@thebearsoft.com
+sabrina.santos	activity_report_collected	Johanna Sabrina Santos; Argentina; Avantica; johannasabsantos@gmail.com; johanna.santos@thebearsoft.com
+jose.torres	activity_report_collected	Jose Augusto Torres Garrido; Perú; avantica; jose.torres@encora.com; jose.torres@thebearsoft.com
+laercio.serra	activity_report_collected	Laercio da Silva Serra; Brazil; avantica; laercio.serra@gmail.com; laercio.serra@thebearsoft.com
+maria.martinez	activity_report_collected	Maria Martinez; Argentina; Encora; mariamv73@gmail.com; maria.martinez@thebearsoft.com
+matias.aguirre	activity_report_collected	Matias Aguirre; Uruguay; avantica; matiasaguirre@gmail.com; matias.aguirre@thebearsoft.com
+mefit.boset	activity_report_collected	mefit boset; Mexico; Encora; mefitdev@gmail.com; mefit.hernandez@thebearsoft.com
+martin.rios	activity_report_collected	Martin Rios; Argentina; avantica; martin.rios@encora.com; martin.rios@thebearsoft.com
+enmanuel.reyes	activity_report_collected	Enmanuel Reyes Duran; Republica Dominicana; Avantica; Enmanuel.Reyes@encora.com; enmanuel.reyes@thebearsoft.com
+eduard.avendaño	activity_report_collected	Eduard Avendaño, Colombia, eduavencama@gmail.com, eduard.avendano@thebearsoft.com
