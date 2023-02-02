@@ -1,2 +1,2 @@
-file_path: data/data.txt
+file_path: /home/william/claseJimmy/tarea2/data/data.txt
 regex: \S+@\S+
