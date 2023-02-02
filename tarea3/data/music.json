@@ -1,0 +1,8 @@
+{
+	"carrito_compras": 
+		{
+			"frutas": ["mango", "limon", "manzana", "pina", "papaya"],
+			"legumbres": ["lechuga", "colantro", "puerro"],
+			"verduras": ["papa","ayote", "camote"]
+		}
+}
